@@ -27,4 +27,4 @@ I'm always eager to connect with fellow AI enthusiasts, developers, and creators
 
 Let's collaborate and build amazing things together!
 
-[![An image of @sasikasankalana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sasikasankalana)](https://holopin.io/@sasikasankalana?style=social)
+[![An image of @sasikasankalana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sasikasankalana)](https://holopin.io/@sasikasankalana?style=for-the-badge)
