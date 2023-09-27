@@ -19,9 +19,6 @@ I regularly write articles on Medium, where I share my insights, tutorials, and 
 
 Follow me on [Medium](https://medium.com/@sankalanacs) to stay updated with my latest writings!
 
-[![@sasikasankalana's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@sasikasankalana)
-
-
 ## 📫 Let's Connect
 I'm always eager to connect with fellow AI enthusiasts, developers, and creators. Feel free to reach out to me through the following channels:
 
@@ -29,4 +26,6 @@ I'm always eager to connect with fellow AI enthusiasts, developers, and creators
 - Email: sasikasankalana@gmail.com
 
 Let's collaborate and build amazing things together!
+
+[![An image of @sasikasankalana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sasikasankalana)](https://holopin.io/@sasikasankalana)
 
